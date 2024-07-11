@@ -1,7 +1,8 @@
 # 자기소개
 
-  ![이미지](Picture\SSAFY.png)
-  
+
+  <img src="Picture\SSAFY.png">
+
   안녕하세요, **SSAFY 인턴십** 프로그램에 참여하고 있는 김해창이라고 합니다.
 
   <img src="..\PROFILE\Picture\C.svg" width="100" height="300"/>

@@ -13,4 +13,6 @@
 
   <img src="..\PROFILE\Picture\Real_Plane.gif" width="600" height="200">
 
+  항공 분야 뿐만 아니라, 자동차와 방산 분야에도 관심을 두고 있습니다.
+
 
